@@ -73,4 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Section 23
 
 WHY REACT?
+
+
     https://www.freecodecamp.org/news/why-use-react-for-web-development/
